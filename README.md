@@ -3,8 +3,6 @@ output: github_document
 author: "Jessica LaCourse
 ---
 
-
-
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
