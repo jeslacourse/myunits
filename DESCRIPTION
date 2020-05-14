@@ -1,0 +1,17 @@
+Package: myunits
+Title: Unit Conversion for Weight and Temperature
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jessica",
+           family = "LaCourse",
+           role = c("aut", "cre"),
+           email = "jllacourse@ucdavis",
+           comment = c(ORCID = "https://orcid.org/0000-0003-2042-2588"))
+Description: Conversions between Celsius and Fahrenheit, and Kilograms and Pounds.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
