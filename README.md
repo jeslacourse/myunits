@@ -3,7 +3,7 @@ output: github_document
 author: "Jessica LaCourse
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 <!-- badges: end -->
-
+R package
 My units is a simple conversion tool to aid in the conversions of weight/mass and temperature. 
 
 ## Installation
